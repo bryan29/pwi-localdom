@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "homepage": "https://github.com/bryan29/pwi-localdom",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Bryan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",s
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.2.1"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#~1.0.9"
+  }
+}
